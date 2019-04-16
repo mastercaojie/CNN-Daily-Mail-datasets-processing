@@ -1,7 +1,7 @@
 # CNN-Daily-Mail-datasets-processing
-This data used for Text Summarization
-CNN/Daily Mail Raw data processing
-CNN/Daily Mail 原始数据下载地址：https://cs.nyu.edu/~kcho/DMQA/
+This data used for Text Summarization.
+CNN/Daily Mail Raw data processing.
+raw dataset ---  CNN/Daily Mail ---------  download url ：https://cs.nyu.edu/~kcho/DMQA/
 
 
 # RNN
