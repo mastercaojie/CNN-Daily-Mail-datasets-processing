@@ -4,5 +4,5 @@ CNN/Daily Mail 原始数据下载地址：https://cs.nyu.edu/~kcho/DMQA/
 
 
 # RNN
-python make_data.py /path/to/cnn/stories
+python -i input_data make_data.py /path/to/cnn/stories -o output_data /path/to/dataset
 
